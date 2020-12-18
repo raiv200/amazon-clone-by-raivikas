@@ -62,7 +62,7 @@ function Login() {
         <p>
           By continuing, you agree to Amazon's Conditions of Use and Privacy
           Notice. Please se our privacy Notice,cookie Notice and Interest-based
-          Ads.
+          Ad.
         </p>
 
         <button  onClick={register} className="login__registerButton">
